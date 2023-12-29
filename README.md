@@ -1,5 +1,5 @@
 # Space-Invaders
-Image Editor 
+Image editor in Python
 
 
 ## Requirements
